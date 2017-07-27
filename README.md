@@ -11,4 +11,4 @@ This wrapper works around those issues and provides a proper wrapped implementat
 
 If you are interested in using TAPI 2.0, then check out atapi.codeplex.com instead.
 
-More information on this library is available at http://www.julmar.com/blog/mark/default,date,2006-03-03.aspx
+More information on this library is available at http://julmar.com/blog/programming/wrapping-the-tapi-3-0-api-with-ccli/
